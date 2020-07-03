@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "repository": "https://github.com/DMAlexL/dm.git",
-    "author": "Alexander <lzq1822178078@dingtalk.com>",
+    "author": "DMAlexL <lzq1822178078@163.com>",
     "license": "MIT",
     "scripts": {
         "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
